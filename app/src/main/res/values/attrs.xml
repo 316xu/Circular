@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LinearProgress">
+        <attr name="linear_style" format="enum">
+            <enum name="Determinate" value="0"/>
+            <enum name="Indeterminate" value="1"/>
+        </attr>
+        <attr name="color1" format="color"/>
+        <attr name="color2" format="color"/>
+    </declare-styleable>
+</resources>
